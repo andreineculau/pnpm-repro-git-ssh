@@ -1,5 +1,10 @@
 {
   "private": true,
   "name": "pnpm-repro-git-ssh",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {
+    "ajv": "4.11.8",
+    "lodash": "4.17.4"
+  },
+  "scripts": {}
 }
